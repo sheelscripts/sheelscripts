@@ -1,9 +1,9 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1221,100:0B3D91&height=140&section=header&text=SHEELENDRA&fontColor=FFFFFF&fontSize=40&fontAlignY=45&desc=Systems-Oriented%20Frontend%20Engineer%20%7C%20Robotics%20Engineer&descAlignY=75" alt="SHEELENDRA" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1221,100:0B3D91&height=140&section=header&text=SHEELENDRA&fontColor=FFFFFF&fontSize=40&fontAlignY=45&desc=Systems-Oriented%20Full-Stack%20Engineer%20%7C%20Robotics%20Engineer&descAlignY=75" alt="SHEELENDRA" />
 </div>
 
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2400&pause=650&color=E6EDF3&background=0B1221&center=true&vCenter=true&width=760&lines=Systems-Oriented+Frontend+Engineer;Embedded+Systems+-+STM32+%7C+ESP32;Robotics+%7C+Real-Time+Monitoring+%7C+IoT;AI-Integrated+Automation+and+Edge+Intelligence" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2400&pause=650&color=E6EDF3&background=0B1221&center=true&vCenter=true&width=760&lines=Systems-Oriented+Full-Stack+Engineer;Embedded+Systems+-+STM32+%7C+ESP32;Robotics+%7C+Real-Time+Monitoring+%7C+IoT;AI-Integrated+Automation+and+Edge+Intelligence" alt="Typing SVG" />
 </div>
 
 <div align="center">
