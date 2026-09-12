@@ -2,8 +2,6 @@
 
 <sub>FULL-STACK · SYSTEMS-ORIENTED · ROBOTICS ENGINEER</sub>
 
-<img src="https://media.giphy.com/media/xUOxfjsW9fWPqEWouU/giphy.gif" width="320" style="max-width:80%;height:auto;border-radius:8px;" alt="robot arm"/>
-
 [![Website](https://img.shields.io/badge/sheelscripts.dev-black?style=for-the-badge&logo=vercel&logoColor=white)](https://sheelscripts.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheelscripts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheelscripts)
