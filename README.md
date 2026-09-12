@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Code+that+moves+matter.;Software+that+survives+contact+with+hardware.;Closer+to+the+metal+than+the+abstraction." style="max-width:90%;height:auto;" /></a>
+<h3><em>Code that moves matter. Software that survives contact with hardware.</em></h3>
 
 <br>
 
@@ -36,12 +36,6 @@ I connect firmware, sensors, autonomous machines, cloud services, and the people
 <img src="https://skillicons.dev/icons?i=bash,linux,docker,git,github,nginx,vercel" alt="devops stack"/>
 <br>
 <sub>CI/CD · REST APIs</sub>
-
-<br>
-
-<div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" style="max-width:100%;height:auto;" alt="circuit divider"/>
-</div>
 
 <br>
 
