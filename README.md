@@ -31,8 +31,6 @@ I connect firmware, sensors, autonomous machines, cloud services, and the people
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-<br>
-
 ### ▹ Backend — services that carry the signal
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -46,8 +44,6 @@ I connect firmware, sensors, autonomous machines, cloud services, and the people
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3D5A?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6236FF?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F61?style=flat-square&logoColor=white)
-
-<br>
 
 ### ▹ DevOps — the floor that holds it up
 
