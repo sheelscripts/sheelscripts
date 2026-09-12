@@ -16,11 +16,7 @@
 
 </div>
 
-<br>
-
 I connect firmware, sensors, autonomous machines, cloud services, and the people steering them — robotics, embedded, AI, web, infrastructure, hardware, one signal through many layers. I build for systems that know when they're breaking, and how to heal.
-
-<br>
 
 ### ▹ Robotics — code that moves matter
 <img src="https://skillicons.dev/icons?i=cpp,py,arduino,raspberrypi,ros,opencv" alt="robotics stack"/>
