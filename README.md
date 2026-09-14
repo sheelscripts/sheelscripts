@@ -16,7 +16,9 @@ INPUT  →  SENSE  →  DECIDE  →  ACT  →  LEARN
 
 </div>
 
+<div align="center">
 I work across the layers that turn signals into autonomous systems. Building machines that are aware of their environment, their state and, ideally, their own failures.
+</div>
 
 ### ▹ Robotics — code that moves matter
 
