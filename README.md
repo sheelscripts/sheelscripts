@@ -10,7 +10,11 @@
 
 </div>
 
+<div align="center">
+
 INPUT  →  SENSE  →  DECIDE  →  ACT  →  LEARN
+
+</div>
 
 I work across the layers that turn signals into autonomous systems. Building machines that are aware of their environment, their state and, ideally, their own failures.
 
