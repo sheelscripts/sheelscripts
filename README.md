@@ -10,7 +10,9 @@
 
 </div>
 
-I connect firmware, sensors, autonomous machines, cloud services, and the people steering them — robotics, embedded, AI, web, infrastructure, hardware, one signal through many layers. I build for systems that know when they're breaking, and how to heal.
+INPUT  →  SENSE  →  DECIDE  →  ACT  →  LEARN
+
+I work across the layers that turn signals into autonomous systems. Building machines that are aware of their environment, their state and, ideally, their own failures.
 
 ### ▹ Robotics — code that moves matter
 
